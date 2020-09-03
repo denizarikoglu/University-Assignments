@@ -1,0 +1,4 @@
+C:\Users\Deniz\Desktop\UNI\Parallel\New folder\TBB_Image_Processing_WIN\TBB_Image_Processing_WIN\RGB_ProcessingWin\Debug\RGB_ProcessingWin.exe
+C:\Users\Deniz\Desktop\UNI\Parallel\New folder\TBB_Image_Processing_WIN\TBB_Image_Processing_WIN\RGB_ProcessingWin\Debug\RGB_ProcessingWin.pdb
+C:\Users\Deniz\Desktop\Shite\UNI\Parallel\New folder\TBB_Image_Processing_WIN\TBB_Image_Processing_WIN\RGB_ProcessingWin\Debug\RGB_ProcessingWin.exe
+C:\Users\Deniz\Desktop\Shite\UNI\Parallel\New folder\TBB_Image_Processing_WIN\TBB_Image_Processing_WIN\RGB_ProcessingWin\Debug\RGB_ProcessingWin.pdb
